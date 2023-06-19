@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  ToDo
-//
-//  Created by Vsevolod Pavlovskyi on 01.06.2020.
-//  Copyright © 2020 Vsevolod Pavlovskyi. All rights reserved.
-//
-
 import SwiftUI
 
 struct TodoItem: Identifiable {
