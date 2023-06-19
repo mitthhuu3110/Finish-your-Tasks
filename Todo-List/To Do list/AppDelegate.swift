@@ -1,14 +1,3 @@
-//
-//  AppDelegate.swift
-//  ToDo
-//
-//  Created by Vsevolod Pavlovskyi on 01.04.2020.
-//  Copyright © 2020 Vsevolod Pavlovskyi. All rights reserved.
-//
-//  AppDelegate.swift contains code for managing the overall app
-//  Entry point of the application
-
-
 import UIKit
 
 
